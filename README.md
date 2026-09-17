@@ -1,6 +1,6 @@
-AI Job Market Analytics --- 2025 | Power BI
+**AI Job Market Analytics --- 2025 | Power BI**
 
-Project Overview
+**Project Overview**
 
 An interactive Power BI analytics project built using the AI Job
 Market dataset (2025) from Kaggle. The project analyses 11,293 AI
@@ -11,7 +11,7 @@ The report was designed as a portfolio-focused business intelligence
 project, emphasizing Power Query transformations, DAX measures,
 interactive reporting and business storytelling.
 
-Business Objectives
+**Business Objectives**
 
 Analyse the scale and distribution of AI job demand across selected
 markets.
@@ -30,7 +30,7 @@ Dataset
 
 Source: Kaggle --- AI Job Market Dataset (2025)
 
-Item                  Details
+**Item                  Details
 
 Original records      15,000
 Countries in source   20
@@ -39,7 +39,7 @@ Records analysed      11,293
 BI Tool               Microsoft Power BI
 Data preparation      Power Query
 Analytics             DAX
-Report structure      5-page concept
+Report structure      5-page concept**
 
 Selected Countries
 
@@ -82,8 +82,8 @@ Benefits Score
 
 Company Name
 
-The original job description field and original coded experience-level
-field were excluded from the analytical model.
+_The original job description field and original coded experience-level
+field were excluded from the analytical model._
 
 Power BI Data Preparation
 
@@ -108,9 +108,9 @@ Remote-work categorisation
 The required_skills field is retained in the source model for
 potential future skill-level analysis.
 
-Report Pages
+**Report Pages**
 
-1. Executive Dashboard
+**1. Executive Dashboard**
 
 Provides a high-level view of:
 
@@ -134,35 +134,8 @@ Job-category demand
 
 Salary-band distribution
 
-2. Geographical Trends
 
-Examines:
-
-Country-level job demand
-
-Region-wise job postings
-
-Average salary by company location
-
-Company location vs employee residence
-
-Country × Job Category analysis
-
-3. Roles & Compensation
-
-Focuses on:
-
-Job Category demand
-
-Salary by job category
-
-Experience vs salary
-
-Education requirements
-
-Salary-band distribution
-
-4. Work Model Trend
+**2. Work Model Trend**
 
 Analyses:
 
@@ -176,7 +149,27 @@ Job postings by company size
 
 Employment/work-model patterns
 
-5. Country Drill Down
+
+
+**3. Geographical Trends**
+
+Examines:
+
+Country-level job demand
+
+Region-wise job postings
+
+Average salary by company location
+
+Company location vs employee residence
+
+Country × Job Category analysis
+
+
+
+
+
+**4. Country Drill Down**
 
 An interactive drill-through page providing a selected country's:
 
@@ -226,9 +219,9 @@ Drill-through to country-level analysis
 
 Dynamic KPI cards
 
-Business Questions Answered
+**Business Questions Answered**
 
-What does the AI job market look like across the selected countries?
+**_What does the AI job market look like across the selected countries?
 
 Where is AI hiring concentrated?
 
@@ -237,12 +230,12 @@ How does compensation vary by role, experience and geography?
 How do industries, company sizes and work models differ?
 
 What does the AI hiring landscape look like within an individual
-country?
+country?_**
 
-Project Limitations
+**Project Limitations**
 
 The analysis covers 12 selected countries rather than the full
-source dataset.
+source dataset. No countries included from either Africa or South America continent.
 
 Findings describe the supplied Kaggle dataset and should not
 automatically be interpreted as a complete representation of the
@@ -257,13 +250,13 @@ application deadline fields.
 Salary analysis is based on the dataset's salary values and derived
 salary bands.
 
-Tools & Skills Demonstrated
+**Tools & Skills Demonstrated**
 
-Power BI · Power Query · DAX · Data Cleaning · Data Transformation ·
+**Power BI · Power Query · DAX · Data Cleaning · Data Transformation ·
 Data Modelling · KPI Design · Interactive Dashboards · Drill-through ·
-Business Analytics · Data Storytelling
+Business Analytics · Data Storytelling**_
 
-Portfolio Outcome
+**Portfolio Outcome**
 
 This project demonstrates an end-to-end Power BI workflow: transforming
 a raw job-market dataset, creating analytical dimensions and measures,
